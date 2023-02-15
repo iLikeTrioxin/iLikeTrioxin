@@ -116,7 +116,7 @@
                                     </svg>
                                     All-time contributions
                                 </td>
-                                <td class="value">324</td>
+                                <td class="value">327</td>
                             </tr>
 
                             <tr style="animation-delay: 450ms">
@@ -128,7 +128,7 @@
                                     </svg>
                                     Lines of code changed
                                 </td>
-                                <td class="value">5,909,871</td>
+                                <td class="value">5,911,877</td>
                             </tr>
 
                             <tr style="animation-delay: 600ms">
@@ -140,7 +140,7 @@
                                     </svg>
                                     Page views (past two weeks)
                                 </td>
-                                <td class="value">31</td>
+                                <td class="value">27</td>
                             </tr>
 
                             <tr style="animation-delay: 750ms">
@@ -152,7 +152,7 @@
                                     </svg>
                                     Repositories with contributions
                                 </td>
-                                <td  class="value">25</td>
+                                <td  class="value">26</td>
                             </tr>
 
                         </tbody>
